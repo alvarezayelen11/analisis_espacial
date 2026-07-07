@@ -2,6 +2,12 @@
 
 Este repositorio reúne proyectos de análisis espacial desarrollados en **QGIS**, utilizando datos públicos del **Censo Nacional de Población, Hogares y Viviendas 2022** (INDEC), procesados a través de **REDATAM**, junto con otras fuentes oficiales.
 
+## Mapa interactivo
+
+Explorá el visor web del proyecto:
+
+👉 [Abrir mapa interactivo](https://alvarezayelen11.github.io/analisis_espacial/la_plata_establecimientos_salud/mapa_interactivo/)
+
 ## Estado del proyecto
 
 🚧 **Trabajo en progreso (Work in Progress).**
